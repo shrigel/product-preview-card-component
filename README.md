@@ -16,6 +16,11 @@ This is my solution to the **Product Preview Card Component** challenge on Front
 - Semantic HTML5
 - CSS3
 - SCSS / Sass
+- Flexbox
+- CSS Custom Properties
+- Responsive Design
+- Responsive Images with `<picture>`
+- Media Queries
 - Google Fonts (Montserrat & Fraunces)
 
 ## Layout
